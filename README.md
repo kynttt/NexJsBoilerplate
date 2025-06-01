@@ -1,6 +1,6 @@
-# HR-EZ-V1
+# Next.js Boilerplate
 
-A modern HR management system built with Next.js 14, featuring a robust tech stack and comprehensive features.
+A modern Next js boilerplate built with Next.js 14, featuring a robust tech stack and comprehensive features.
 
 ## Tech Stack
 
